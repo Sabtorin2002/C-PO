@@ -1,0 +1,5 @@
+Numar camera: 20
+Denumire camera: Standard
+Tip camera: Dubla
+Numar facilitati: 2
+Facilitati: Mini-Frigider Jacuzzi 

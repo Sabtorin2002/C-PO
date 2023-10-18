@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\Facultate\Anu 2 Sem I\PO\!Restanta\CameraHotel\CameraHotel\Source.cpp(295,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Facultate\Anu 2 Sem I\PO\!Restanta\CameraHotel\CameraHotel\Source.cpp(304,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Facultate\Anu 2 Sem I\PO\!Restanta\CameraHotel\CameraHotel\Source.cpp(802,35): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\Facultate\Anu 2 Sem I\PO\!Restanta\CameraHotel\CameraHotel\Source.cpp(373): warning C4715: 'Camera::taxare': not all control paths return a value
+  CameraHotel.vcxproj -> D:\Facultate\Anu 2 Sem I\PO\!Restanta\CameraHotel\x64\Debug\CameraHotel.exe
