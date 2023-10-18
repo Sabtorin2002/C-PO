@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Facultate\Anu 2 Sem I\PO\!Restanta\ServiciiImprimare3D\ServiciiImprimare3D\Source.cpp(265,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ServiciiImprimare3D.vcxproj -> D:\Facultate\Anu 2 Sem I\PO\!Restanta\ServiciiImprimare3D\x64\Debug\ServiciiImprimare3D.exe

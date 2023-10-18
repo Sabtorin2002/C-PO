@@ -1,0 +1,6 @@
+Culoare: Negru
+Producator: BMW
+Numar dimensiuni: 4
+Dimensiuni: 
+7 2 4 1 
+Pret: 10.2

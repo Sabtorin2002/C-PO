@@ -1,0 +1,5 @@
+Pret: 30
+Nume: Inglorious_Bastards
+Numar vizualizari: 3
+Vizualizari: 120 130 165 
+Colectie: The_Specials-Inglorious_Bastards

@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\Facultate\Anu 2 Sem I\PO\!Restanta\CosCumparaturi\CosCumparaturi\Source.cpp(175,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\Facultate\Anu 2 Sem I\PO\!Restanta\CosCumparaturi\CosCumparaturi\Source.cpp(324,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Facultate\Anu 2 Sem I\PO\!Restanta\CosCumparaturi\CosCumparaturi\Source.cpp(329,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Facultate\Anu 2 Sem I\PO\!Restanta\CosCumparaturi\CosCumparaturi\Source.cpp(702,9): warning C4834: discarding return value of function with 'nodiscard' attribute
+D:\Facultate\Anu 2 Sem I\PO\!Restanta\CosCumparaturi\CosCumparaturi\Source.cpp(696,23): warning C4101: 'e': unreferenced local variable
+  CosCumparaturi.vcxproj -> D:\Facultate\Anu 2 Sem I\PO\!Restanta\CosCumparaturi\x64\Debug\CosCumparaturi.exe

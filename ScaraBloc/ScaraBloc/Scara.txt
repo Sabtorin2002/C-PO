@@ -1,0 +1,6 @@
+Adresa: Platinia
+Denumire: Serban_Voda
+Numar persoane: 4
+Persoane: 
+2 4 3 2 
+Intretinere: 1750

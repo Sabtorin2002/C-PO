@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Facultate\Anu 2 Sem I\PO\!Restanta\Film\Film\Source.cpp(328,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Facultate\Anu 2 Sem I\PO\!Restanta\Film\Film\Source.cpp(347,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Facultate\Anu 2 Sem I\PO\!Restanta\Film\Film\Source.cpp(567,19): warning C4552: '!=': result of expression not used
+  Film.vcxproj -> D:\Facultate\Anu 2 Sem I\PO\!Restanta\Film\x64\Debug\Film.exe

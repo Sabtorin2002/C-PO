@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Facultate\Anu 2 Sem I\PO\!Restanta\ScaraBloc\ScaraBloc\Source.cpp(299,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Facultate\Anu 2 Sem I\PO\!Restanta\ScaraBloc\ScaraBloc\Source.cpp(307,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Facultate\Anu 2 Sem I\PO\!Restanta\ScaraBloc\ScaraBloc\Source.cpp(612,17): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  ScaraBloc.vcxproj -> D:\Facultate\Anu 2 Sem I\PO\!Restanta\ScaraBloc\x64\Debug\ScaraBloc.exe

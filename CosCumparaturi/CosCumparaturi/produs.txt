@@ -1,0 +1,5 @@
+Nume: Apa
+Producator: Azuga
+Numar pret: 1
+Preturi: 7 
+Cantitate: 2
